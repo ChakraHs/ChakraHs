@@ -44,8 +44,7 @@
 
 <br>
 
-## ➕ Extras
-----
+## ➕ Statistics
 
 <a href="https://github.com/Andrewgaabriel/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,460645,ff5450&text_color=ffffff" />
