@@ -4,9 +4,9 @@
 # 🙂 <strong>Hello, I'm Andrew!! </strong>
 
 
-### 🎒 I'm currently majoring in computer science at uffs
-### 🌱 I'm currently learning web development and machine instruction language
-### 💘 Lover of technology and web design
+#### 🎒 I'm currently majoring in computer science at uffs
+#### 🌱 I'm currently learning web development and machine instruction language
+#### 💘 Lover of technology and web design
 <br>
 <br>
 
