@@ -2,8 +2,8 @@
  -->
 
 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Andrew</h1>
 
-# 🙂 <strong>Hello, I'm Andrew!! </strong>
 
 
 #### 🎒 I'm currently majoring in computer science at uffs
@@ -52,7 +52,7 @@
   <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,460645,ff5450&text_color=ffffff" />
 </a>
 <a href="https://github.com/Andrewgaabriel/github-readme-stats">
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,460645,ff5450&text_color=ffffff&card_width=400" />
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,460645,ff5450&text_color=ffffff&card_width=400" />
 </a>
 
 <br>
