@@ -1,6 +1,8 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  -->
 
+
+
 # 🙂 <strong>Hello, I'm Andrew!! </strong>
 
 
@@ -31,8 +33,8 @@
 
 ## 🚀 My Skills
 
-[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>](https://www.learn-c.org/)
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>](https://html.com/)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -47,10 +49,10 @@
 ## ➕ Statistics
 
 <a href="https://github.com/Andrewgaabriel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,460645,ff5450&text_color=ffffff" />
+  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,460645,ff5450&text_color=ffffff" />
 </a>
 <a href="https://github.com/Andrewgaabriel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,460645,ff5450&text_color=ffffff&card_width=400" />
+  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,460645,ff5450&text_color=ffffff&card_width=400" />
 </a>
 
 <br>
