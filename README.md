@@ -1,6 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
- -->
-<!-- <div align="center" style="width:45%;height:1;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> -->
+
 
 <div align="center" style="width:40%;height:1;padding-bottom:40%;position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="80%" height="80%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
@@ -52,26 +50,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="35" height="35"/>&nbsp;
 
 </div>
-<!-- <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br> -->
-
-
-
-
 
 <br><br>
 
 ### 🚀  **Statistics**
 
 <a href="https://github.com/Andrewgaabriel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,460645,ff5450&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,132a43,11c6c7&text_color=ffffff" />
 </a>
 <a href="https://github.com/Andrewgaabriel/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,460645,ff5450&text_color=ffffff&card_width=400" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,132a43,11c6c7&text_color=ffffff&card_width=350" />
 </a>
 
 <br>
