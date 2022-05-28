@@ -2,7 +2,7 @@
  -->
 <!-- <div align="center" style="width:45%;height:1;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> -->
 
-<div align="center" style="width:40%;padding-bottom:40%;position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div align="center" style="width:40%;padding-bottom:40%;position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="70%" height="70%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
 
 
