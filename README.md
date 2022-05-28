@@ -2,7 +2,7 @@
  -->
 <!-- <div align="center" style="width:45%;height:1;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> -->
 
-<div align="center" style="position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div align="center" style="width:40%;padding-bottom:40%;position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
 
 
@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/andrewggabriel/" alt="linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=11c6c7">
   </a>
-  <a href="https://github.com/Andrewgaabriel" alt="github" target="_blank">
-  <img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=11c6c7">
+  <a href="https://github.com/Andrewgaabriel" alt="github" target="blank">
+  <img src="	https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=11c6c7">
   </a>
   <a href="https://www.instagram.com/andrewgaabriel/?hl=pt-br" alt="instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=11c6c7&labelColor=black">
