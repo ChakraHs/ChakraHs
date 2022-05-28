@@ -55,12 +55,11 @@
 
 ### 🚀  **Statistics**
 
-<a href="https://github.com/Andrewgaabriel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,132a43,11c6c7&text_color=ffffff" />
-</a>
-<a href="https://github.com/Andrewgaabriel/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,132a43,11c6c7&text_color=ffffff&card_width=350" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=25&include_all_commits=true&bg_color=30,132a43,11c6c7&text_color=ffffff" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=25&bg_color=30,132a43,11c6c7&text_color=ffffff&card_width=350" />
+</div>
+  
 
 <br>
 
