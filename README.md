@@ -1,11 +1,11 @@
 
 
-<div align="center" style="width:40%;height:1;padding-bottom:40%;position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="80%" height="80%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div align="center" style="width:40%;height:1;padding-bottom:40%;position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Andrew</h1>
+<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, I'm Andrew</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrewggabriel/" alt="linkedin" target="_blank">
