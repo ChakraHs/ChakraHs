@@ -1,11 +1,11 @@
 
 
-<div align="center" style="width:40%;height:1;padding-bottom:40%;position:relative;"><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div align="center" ><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  frameBorder="0" width="300" height="250"></img></div>
 
 
 
 
-<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, I'm Andrew</h1>
+<h1 align="center">Hi <img width="35"  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Andrew</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrewggabriel/" alt="linkedin" target="_blank">
@@ -56,8 +56,8 @@
 ### 🚀  **Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=15&include_all_commits=true&bg_color=100,132a43,11c6c7&text_color=ffffff&icon_color=ffffff&hide=issues,prs&card_width=300" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=15&bg_color=100,132a43,11c6c7&text_color=ffffff&card_width=300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&border_radius=15&include_all_commits=true&bg_color=100,132a43,11c6c7&text_color=ffffff&icon_color=ffffff&hide=issues,prs&card_width=300" height="100"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&hide_border=true&border_radius=15&bg_color=100,132a43,11c6c7&text_color=ffffff&card_width=300" height="100"/>
 </div>
   
 
