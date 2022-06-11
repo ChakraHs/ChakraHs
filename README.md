@@ -65,7 +65,7 @@
 
    <img  src="http://github-readme-streak-stats.herokuapp.com?user=andrewgaabriel&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=11c6c7&fire=FFFFFF&sideNums=11c6c7&currStreakLabel=11c6c7"/>
    
-   <img src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&include_all_commits=true&title_color=11c6c7&bg_color=100,000000,000000&text_color=ffffff&icon_color=11c6c7&hide=issues,prs"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&show_icons=true&hide_border=true&theme=synthwave&include_all_commits=true&title_color=11c6c7&bg_color=100,000000,000000&text_color=ffffff&icon_color=11c6c7&hide=issues"/>
    
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&title_color=11c6c7&hide_border=true&bg_color=100,000000,000000&text_color=ffffff" />
 
