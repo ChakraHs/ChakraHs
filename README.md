@@ -32,7 +32,7 @@
 ### :man_technologist: **About me**
 
 - 🎒 I'm currently majoring in *Computer Science* at ***UFFS***
-- 🌱 Learning *Web Development*,*Computer  Graphics Tools* and *RPA Solutions*  
+- 🌱 Learning ***Web Development***, ***Computer  Graphics Tools*** and ***RPA Solutions***  
 - 💘 Lover of *technology* and *web design*
 <br>
 
