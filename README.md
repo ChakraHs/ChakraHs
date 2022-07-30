@@ -25,9 +25,7 @@
   
 </div>
 
-
-<br>
-<br>
+---
 
 ### :man_technologist: **About me**
 
@@ -36,7 +34,7 @@
 - 💘 Lover of *technology* and *web design*
 <br>
 
-
+---
 
 ### :hammer_and_wrench: **Skills**
 
@@ -61,6 +59,7 @@
 
 </div> -->
 
+---
 
 <!-- ### 🚀  **Statistics** -->
 
@@ -94,6 +93,6 @@
 
 </div> -->
   
-
+---
 <br>
 
