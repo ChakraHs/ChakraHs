@@ -32,7 +32,8 @@
 - 🎒 I'm currently majoring in *Computer Science* at ***UFFS***
 - 🌱 Learning ***Web Development***, ***Computer  Graphics Tools*** and ***RPA Solutions***  
 - 💘 Lover of *technology* and *web design*
-<br>
+
+
 
 ---
 
@@ -94,5 +95,3 @@
 </div> -->
   
 ---
-<br>
-
