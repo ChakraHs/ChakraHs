@@ -1,10 +1,4 @@
 
-
-<div align="center" ><img src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  frameBorder="0" width="300" height="250"></img></div>
-
-
-
-
 <h1 align="center">Hi <img width="35"  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Andrew</h1>
 
 
