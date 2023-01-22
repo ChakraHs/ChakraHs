@@ -24,7 +24,7 @@
 ### :man_technologist: **About me**
 
 - 🎒 I'm currently majoring in *Computer Science* at ***UFFS***
-- 🌱 Learning ***Web Development*** and ***RPA Solutions***  
+- 🌱 Learning ***Web Development*** and ***Mobile Development*** with ***Flutter***  
 - 💘 Lover of *technology* and *web design*
 
 
