@@ -4,6 +4,9 @@
 
 
 <div align="center">
+  <a href="https://portfolio-chakra-hussein.vercel.app" alt="portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=11c6c7">
+  </a>
   <a href="https://www.linkedin.com/in/chakra-lahoucine/" alt="linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=11c6c7">
   </a>
