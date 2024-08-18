@@ -4,16 +4,16 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andrewggabriel/" alt="linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/chakra-lahoucine/" alt="linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=11c6c7">
   </a>
-  <a href="https://github.com/Andrewgaabriel" alt="github" target="blank">
+  <a href="https://github.com/ChakraHs" alt="github" target="blank">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=11c6c7">
   </a>
-  <a href="https://www.instagram.com/andrewgaabriel/?hl=pt-br" alt="instagram" target="_blank">
+  <a href="https://www.instagram.com/7ussinchakra/?hl=pt-br" alt="instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=11c6c7&labelColor=black">
   </a>
-  <a href="mailto:andrew.gabrielgomes@gmail.com?subject=HiThere">
+  <a href="mailto:houcine.chakra10@gmail.com?subject=HiThere">
   <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=11c6c7">
   </a>
   
