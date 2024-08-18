@@ -23,8 +23,8 @@
 
 ### :man_technologist: **About me**
 
-- 🎒 I'm currently majoring in *Computer Science* at ***UFFS***
-- 🌱 Learning ***Web Development*** and ***Mobile Development*** with ***Flutter***  
+- 🎒 I'm currently a student in *Computer Science* at ***ENSIAS***
+- 🌱 Learning ***Web Development*** and ***Mobile Development*** with ***JAVA***  
 - 💘 Lover of *technology* and *web design*
 
 
@@ -62,7 +62,7 @@
   <summary><strong>🚀 Github Stats</strong></summary>
 
 
-  <img  src="http://github-readme-streak-stats.herokuapp.com?user=andrewgaabriel&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=11c6c7&fire=FFFFFF&sideNums=11c6c7&currStreakLabel=11c6c7"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=chakraHs&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com?user=chakraHs&theme=dark" alt="GitHub Streak")"/>
 
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&&include_all_commits=true&show_icons=true&hide_border=true&theme=synthwave&title_color=11c6c7&bg_color=100,000000,000000&text_color=ffffff&icon_color=11c6c7&hide=issues"/>
   
